@@ -1,0 +1,15 @@
+{
+  "name": "spaceinvaders",
+  "version": "1.0.0",
+  "description": "Assets for Invader game in js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "keywords": ["game"],
+  "author": "Me",
+  "license": "MIT"
+}
